@@ -10,7 +10,11 @@ I'm now studying Computer Science and building real software on the side, starti
 
 ### What I'm building
 
-**COMPDIN** (github.com/bohrerlbs/compdin): a PWA that digitizes the H-60L dynamic-component inspection workflow, inspection cards, subitems, inspector sign-off, defect tracking, push notifications. Live at compdin.vercel.app
+**COMPDIN** — a PWA that digitizes the H-60L dynamic-component inspection workflow: inspection cards, subitems, inspector sign-off, defect tracking, push notifications. Runs on real squadron data, so the source and the live instance are private.
+
+**Guildfront** — a web-based multiplayer game with a companion app for player notifications. In production, actively played.
+
+**wehome** — an app for couples to organize shared life together (tasks, bills, events). In production.
 
 **KnightFightBot** (github.com/bohrerlbs/KnightFightBot): a multi-threaded automation and analytics engine managing 30+ accounts, with a combat outcome model calibrated on 3,500+ real battles
 
