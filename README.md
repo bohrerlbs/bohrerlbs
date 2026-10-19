@@ -16,6 +16,8 @@ I'm now studying Computer Science and building real software on the side, starti
 
 **wehome** ([App Store](https://apps.apple.com/br/app/casal-feliz/id6785326554)) — published as "Casal Feliz", an app for couples to organize shared life together (tasks, bills, events). iOS live; Android in review. Source is private.
 
+**Solar quoting system** — website and internal quoting tool for a small solar & electrical installer in southern Brazil, built for a real client. Sizes the system from the customer's energy consumption, picks the cheapest panel + inverter combination within each inverter's overload limit, applies the owner's labor margin and generates the PDF proposal, plus customer and after-sales tracking. Source is private.
+
 **KnightFightBot** (github.com/bohrerlbs/KnightFightBot): a multi-threaded automation and analytics engine managing 30+ accounts, with a combat outcome model calibrated on 3,500+ real battles
 
 ### Stack
